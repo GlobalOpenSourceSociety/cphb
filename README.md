@@ -1,12 +1,4 @@
-# Competitive Programmer's Handbook
 
-Competitive Programmer's Handbook is a modern introduction to competitive programming.
-The book discusses programming tricks and algorithm design techniques relevant in competitive programming.
-
-## CSES Problem Set
-
-The CSES Problem Set contains a collection of competitive programming problems.
-You can practice the techniques presented in the book by solving the problems.
 
 https://cses.fi/problemset/
 
